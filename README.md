@@ -17,7 +17,7 @@ In order to compile the project, first you need to generate it.
 
 ### Prerequisites
 
-This project is made with `xmake`, you can get it [here](https://xmake.io/#/guide/installation).
+The build too i'm using for this project is `xmake`, you can get it [here](https://xmake.io/#/guide/installation).
 
 ### Installation
 
