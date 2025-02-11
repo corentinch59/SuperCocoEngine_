@@ -17,11 +17,11 @@ In order to compile the project, first you need to generate it.
 
 ### Prerequisites
 
-The build too i'm using for this project is `xmake`, you can get it [here](https://xmake.io/#/guide/installation).
+The build tool used for this project is `xmake`, you can get it [here](https://xmake.io/#/guide/installation).
 
 ### Installation
 
-1. If it's not alreadyu installed, you should get [xmake](https://xmake.io/#/guide/installation)
+1. If it's not already installed, you should get [xmake](https://xmake.io/#/guide/installation)
 2. Clone the repo
    ```sh
    git clone https://github.com/corentinch59/SuperCocoEngine.git
