@@ -24,7 +24,7 @@ The build tool used for this project is `xmake`, you can get it [here](https://x
 1. If it's not already installed, you should get [xmake](https://xmake.io/#/guide/installation)
 2. Clone the repo
    ```sh
-   git clone https://github.com/corentinch59/SuperCocoEngine.git
+   git clone https://github.com/corentinch59/SuperCocoEngine_.git
    ```
 3. Generate the solution
    * For Visual Studio
@@ -67,7 +67,7 @@ Nothing much for now...
 
 Cocomineral - [@Tintinch](https://twitter.com/Tintinch) - corentinchrisment@gmail.com
 
-Project Link: [https://github.com/corentinch59/SuperCocoEngine](https://github.com/corentinch59/SuperCocoEngine)
+Project Link: [https://github.com/corentinch59/SuperCocoEngine_](https://github.com/corentinch59/SuperCocoEngine)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
