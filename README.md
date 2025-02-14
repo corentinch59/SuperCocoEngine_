@@ -67,7 +67,7 @@ Nothing much for now...
 
 Cocomineral - [@Tintinch](https://twitter.com/Tintinch) - corentinchrisment@gmail.com
 
-Project Link: [https://github.com/corentinch59/SuperCocoEngine_](https://github.com/corentinch59/SuperCocoEngine)
+Project Link: [https://github.com/corentinch59/SuperCocoEngine_](https://github.com/corentinch59/SuperCocoEngine_)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
